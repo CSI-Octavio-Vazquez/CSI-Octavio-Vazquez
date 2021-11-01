@@ -1,9 +1,17 @@
+###Welcome sussy little coders
+###My name is Octavio
+##I'm a Student learning about coding. We learned how to do a Scratch game it was fun but challenging. I really want to keep learning but sometimes it's really hard because i just started learning how to do  it. Hope I can learn from all of you guys and get better every day.👍🏻😉😀
+# Basketball
+# Play Paintball
+# Beach Tennis 
+# Volleyball
 ### Hi there 👋
 
 <!--
 **CSI-Octavio-Vazquez/CSI-Octavio-Vazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you sta![05679EB7-88BA-4521-9AAF-322DE6594F7A](https://user-images.githubusercontent.com/93532958/139689697-1a0bed8e-4220-4690-bfc8-f01659006657.jpeg)
+rted:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
