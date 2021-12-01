@@ -10,7 +10,7 @@
 <ul
   <li>Leche condensada</li>
   <img
-  src="https://www.tresmonjitas.com/wp-content/uploads/2020/07/LECHE-CONDENSADA-LATA.png
+  src="https://www.goodnes.com/sites/g/files/jgfbjl131/files/gdn_product/field_product_images/lalechera-4e1a55f9e2ab135b6d242dd7afe6f69da2f2b0af.png"
   title="Leche"
   width="20%"
   height="20%" />
