@@ -6,7 +6,11 @@
 
 
 <h3> Ingredients: </h3>
-
+<img
+src="https://aubreyskitchen.com/wp-content/uploads/2020/12/coquito-recipe-puerto-rican-eggnog.jpg"
+title="Coquito"
+   width="20%"
+   height="20%" />
 <ul
   
    <li>Leche condensada</li>
