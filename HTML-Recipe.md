@@ -8,12 +8,13 @@
 <h3> Ingredients: </h3>
 
 <ul
-  <li>Leche condensada</li>
-  <img
-  src="https://www.cocinayvino.com/wp-content/uploads/2014/12/leche-condensada-1200x720.jpg"
-  title="Leche"
-  width="20%"
-  height="20%" />
+  
+   <li>Leche condensada</li>
+   <img
+   src="https://coobby.com/14692-large_default/nestle-leche-evaporada-ideal167g.jpg"
+   title="Condensada"
+   width="20%"
+   height="20%" />
   
   <li>Leche evaporada</li>
   <img
