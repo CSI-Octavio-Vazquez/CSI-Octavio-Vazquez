@@ -24,7 +24,7 @@
   
   <li>Leche de coco</li>
   <img
-  src="https://www.goya.com/media/7124/coconut-milk.png?height=440
+  src="https://www.goya.com/media/7124/coconut-milk.png?height=440"
    title="Leche de coco"
    width="20%"
    height="20%" />
@@ -32,9 +32,9 @@
   <li>Canela</li>
   <img 
   src="https://www.hola.com/imagenes//estar-bien/20180607125261/la-canela-es-una-especia-llena-de-propiedades-beneficiosas/0-574-101/canelapropiedades-t.jpg"
-       title="Canela"
-        width="20%"
-       height="20%" />
+   title="Canela"
+   width="20%"
+   height="20%" />
        
   <li>Ron Blanco</li>
   <img
