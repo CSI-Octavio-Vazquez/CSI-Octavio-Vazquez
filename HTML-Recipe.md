@@ -10,15 +10,15 @@
 <ul
   <li>Leche condensada</li>
   <img
-  src="https://www.goodnes.com/sites/g/files/jgfbjl131/files/gdn_product/field_product_images/lalechera-4e1a55f9e2ab135b6d242dd7afe6f69da2f2b0af.png"
+  src="https://www.cocinayvino.com/wp-content/uploads/2014/12/leche-condensada-1200x720.jpg"
   title="Leche"
   width="20%"
   height="20%" />
   
   <li>Leche evaporada</li>
   <img
-  src="https://www.goya.com/media/6708/evaporated-milk-es.png?height=470
-   title="Evaporada"
+  src="https://m.media-amazon.com/images/I/61f9zpE7wSL._SX425_PIbundle-2,TopRight,0,0_AA425SH20_.jpg"
+  title="Evaporada"
   width="20%"
   height="20%" />
   
@@ -31,14 +31,14 @@
   
   <li>Canela</li>
   <img 
-  src="https://www.hola.com/imagenes//estar-bien/20180607125261/la-canela-es-una-especia-llena-de-propiedades-beneficiosas/0-574-101/canelapropiedades-t.jpg
+  src="https://www.hola.com/imagenes//estar-bien/20180607125261/la-canela-es-una-especia-llena-de-propiedades-beneficiosas/0-574-101/canelapropiedades-t.jpg"
        title="Canela"
         width="20%"
        height="20%" />
        
   <li>Ron Blanco</li>
   <img
-  src="https://www.licorea.com/images/magictoolbox_cache/feabb61ae2a71c1844359f7cbe8b5d82/4/1/4169/original/286853678/ron_blanco_romero_1_litro.jpg
+  src="https://www.licorea.com/images/magictoolbox_cache/feabb61ae2a71c1844359f7cbe8b5d82/4/1/4169/original/286853678/ron_blanco_romero_1_litro.jpg"
   title="Canela"
         width="20%"
        height="20%" />
