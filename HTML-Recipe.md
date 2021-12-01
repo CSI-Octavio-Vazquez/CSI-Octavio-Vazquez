@@ -9,10 +9,40 @@
 
 <ul
   <li>Leche condensada</li>
+  <img
+  src="https://www.tresmonjitas.com/wp-content/uploads/2020/07/LECHE-CONDENSADA-LATA.png
+  title="Leche"
+  width="20%"
+  height="20%" />
+  
   <li>Leche evaporada</li>
+  <img
+  src="https://www.goya.com/media/6708/evaporated-milk-es.png?height=470
+   title="Evaporada"
+  width="20%"
+  height="20%" />
+  
   <li>Leche de coco</li>
+  <img
+  src="https://www.goya.com/media/7124/coconut-milk.png?height=440
+   title="Leche de coco"
+   width="20%"
+   height="20%" />
+  
   <li>Canela</li>
+  <img 
+  src="https://www.hola.com/imagenes//estar-bien/20180607125261/la-canela-es-una-especia-llena-de-propiedades-beneficiosas/0-574-101/canelapropiedades-t.jpg
+       title="Canela"
+        width="20%"
+       height="20%" />
+       
   <li>Ron Blanco</li>
+  <img
+  src="https://www.licorea.com/images/magictoolbox_cache/feabb61ae2a71c1844359f7cbe8b5d82/4/1/4169/original/286853678/ron_blanco_romero_1_litro.jpg
+  title="Canela"
+        width="20%"
+       height="20%" />
+  </ul>
 
 
 
@@ -20,5 +50,8 @@
 <h3> Steps: </h3>
 
 <ol>
-  <li>
+  <li>Reunir todos los ingredientes</li>
+  <li>Vamos a licuar comenzando con las leches, almendras, extracto de almendras, canela y por ultimo el amaretto</li>
+  <li>Lo guardamos en envases de crsital y los colocamos en la nevera</li>
+  <li>Si gusta al momento de servir podemos decorar con una tama de canela y trozos de almendra</li>
   
