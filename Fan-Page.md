@@ -31,19 +31,19 @@
 <table>
     <tr>
         <th>Name</th>
-        <td>Paul</td>
+        <td>Kevin</td>
     </tr>
     <tr>
         <th>Age</th>
-        <td>34</td>
+        <td>42</td>
     </tr>
     <tr>
         <th>Birthday</th>
-        <td>7th November</td>
+        <td>July 6,1979</td>
     </tr>
         <tr>
         <th>Nationality</th>
-        <td>Australian</td>
+        <td>American</td>
     </tr>
     <tr>
         <th>Instagram</th>
