@@ -27,3 +27,45 @@
 </div>
 
 <br>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <td>Paul</td>
+    </tr>
+    <tr>
+        <th>Age</th>
+        <td>34</td>
+    </tr>
+    <tr>
+        <th>Birthday</th>
+        <td>7th November</td>
+    </tr>
+        <tr>
+        <th>Nationality</th>
+        <td>Australian</td>
+    </tr>
+    <tr>
+        <th>Instagram</th>
+        <td>@thisispestily</td>
+    </tr>
+    <tr>
+        <th>Twitter</th>
+        <td>@pestily</td>
+    </tr>
+    <tr>
+        <th>Youtube</th>
+        <td>@pestily</td>
+    </tr>
+    <tr>
+        <th>Twitch</th>
+        <td><a href="https://www.twitch.tv/pestily"> @pestily </a></td>
+    </tr>
+</table>
+
+
+<br><br>
+
+<p>
+    Made by: <u>Octavio Vázquez De Jesús</u> on December 3, 2021
+</p>
