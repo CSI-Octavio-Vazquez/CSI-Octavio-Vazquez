@@ -13,7 +13,7 @@
 <br>
 
 <p>
-    Kevin Hart is a popilar actor that acts in my favorite movie, At the time I wrote this fan page he has 50 movies. He has movies that impacted many lives like Fatherhodd, The upside and those are movies that inspire and have good stories that people see and see him like an examople. He is also one of the best comedians out there. He has movies like Jumanji, Get hard, Central Intelligence that people see and laugh all the movie.   Ride along and others. 
+    Kevin Hart is a popular actor that acts in my favorite movie like Ride Along, At the time I wrote this fan page he has 50 movies. He has movies that impacted many lives like Fatherhodd, The upside and those are movies that inspire and have good stories that people see and see him like an examople. He is also one of the best comedians out there. He has movies like Jumanji, Get hard, Central Intelligence that people see and laugh all the movie.   Ride along and others. 
 </p>
 
 <br>
