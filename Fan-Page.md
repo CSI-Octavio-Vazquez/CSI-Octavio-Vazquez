@@ -47,7 +47,7 @@
     </tr>
     <tr>
         <th>Instagram</th>
-        <td>@thisispestily</td>
+        <td>@therock</td>
     </tr>
     <tr>
         <th>Twitter</th>
@@ -55,7 +55,7 @@
     </tr>
     <tr>
         <th>Youtube</th>
-        <td>@pestily</td>
+        <td>@The Rock</td>
     </tr>
     <tr>
         <th>Twitch</th>
