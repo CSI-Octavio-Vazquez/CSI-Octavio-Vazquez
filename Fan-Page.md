@@ -58,8 +58,8 @@
          <td><a "href="https://www.youtube.com/channel/UCLRmIdRJgLfmdpJufmBhBuA"> @kevin </a></td> 
     </tr>
     <tr>
-        <th>Twitch</th>
-        <td><a href="https://www.twitch.tv/pestily"> @pestily </a></td>
+        <th>Horrors</th>
+        <td>Insects</td>
     </tr>
 </table>
 
