@@ -41,7 +41,7 @@
         <th>Birthday</th>
         <td>July 6,1979</td>
     </tr>
-        <tr>
+    <tr>
         <th>Nationality</th>
         <td>American</td>
     </tr>
@@ -57,6 +57,9 @@
         <th>Youtube</th>
         <td><a href="https://www.youtube.com/watch?v=GQXVQmcGQUY&t=2s"> @LOL Network </a></td>
     </tr>
+     <tr>
+        <th>Total Views</th>
+        <td>991,704,952 </td>
     <tr>
         <th>Horrors</th>
         <td>Insects</td>
