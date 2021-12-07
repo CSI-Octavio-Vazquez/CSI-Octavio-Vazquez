@@ -22,15 +22,16 @@
     Kevin Hart is a popular actor that acts in my favorite movie, At the time I wrote this fan page he has 50 movies. He has movies that impacted many lives like Fatherhodd, The upside and those are movies that inspire and have good stories that people see and see him like an example. He also has made comedies that sometimes are on youtube that make me laught alot. Kevin has made movies, interviews, with one of the best actor's out there like The rock, Jimmy fallon, Karen Gillan, Nick Jonas etc. He has helped many communitys in need when they need it. He likes to go to the NBA games. He plays in the Celebrity all start games. He has won 4 MVP in the celibrity all star.
 <br>
 
-<div align="center">
+    <h2 align="center" > Central Intelligence</h2>
+
+    <div align="center">
     <img    src="https://m.media-amazon.com/images/M/MV5BMjA2NzEzNjIwNl5BMl5BanBnXkFtZTgwNzgwMTEzNzE@._V1_.jpg"
             title="Kevin"
             width="50%"
             height="50%" 
             />
     <p>
-   
-    <h2 align="center" >Central Intelligence
+  
         <br>
         
        
