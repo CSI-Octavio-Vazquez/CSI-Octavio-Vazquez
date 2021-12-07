@@ -50,8 +50,8 @@
         <td>@kevinhart4real</td>
     </tr>
     <tr>
-        <th></th>
-        <td>@</td>
+        <th>Networth</th>
+        <td>$200 million</td>
     </tr>
     <tr>
         <th>Youtube</th>
