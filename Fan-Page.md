@@ -9,8 +9,8 @@
     <div align="center">
     <img    src="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_05/1670228/kevin-hart-mindful-kb-main-210203.jpg"
             title="Kevin Hart"
-            width="20%"
-            height="20%" 
+            width="30%"
+            height="30%" 
             />
 </div>
 
