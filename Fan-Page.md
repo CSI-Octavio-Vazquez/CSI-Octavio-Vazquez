@@ -3,8 +3,8 @@
 <div align="center">
     <img    src="https://deadline.com/wp-content/uploads/2019/05/kevin-hart-2.jpg?w=681&h=383&crop=1"
             title="Kevin Hart"
-            width="20%"
-            height="20%" 
+            width="30%"
+            height="30%" 
             />
     <div align="center">
     <img    src="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_05/1670228/kevin-hart-mindful-kb-main-210203.jpg"
