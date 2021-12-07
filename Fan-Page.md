@@ -6,6 +6,12 @@
             width="20%"
             height="20%" 
             />
+    <div align="center">
+    <img    src="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_05/1670228/kevin-hart-mindful-kb-main-210203.jpg"
+            title="Kevin Hart"
+            width="20%"
+            height="20%" 
+            />
 </div>
 
 <h2 align="center" > Acting, Comedian, Movies Screenwriter, Television Producer, Film Produce, Voice actor, Autor or other personality Fan Page!</h2>
@@ -13,15 +19,12 @@
 <br>
 
 <p>
-    Kevin Hart is a popular actor that acts in my favorite movie, At the time I wrote this fan page he has 50 movies. He has movies that impacted many lives like Fatherhodd, The upside and those are movies that inspire and have good stories that people see and see him like an examople. He is also one of the best comedians out there.He is an American stand-up comedian and actor. Born and raised in Philadelphia, Pennsylvania, Hart began his career by winning several amateur comedy competitions at clubs throughout New England, culminating in his first real break in 2001 when he was cast by Judd Apatow for a recurring role on the TV series Undeclared. The series lasted only one season, but he soon landed other roles in films such as Paper Soldiers (2002), Scary Movie 3 (2003), Soul Plane (2004), In the Mix (2005), and Little Fockers (2010).
-
-Hart's comedic reputation continued to grow with the release of his first stand-up album I'm a Grown Little Man (2008), and performances in the films Think Like a Man (2012), Grudge Match (2013), Ride Along (2014) and its sequel Ride Along 2 (2016), About Last Night (2014), Get Hard (2015), Central Intelligence (2016), The Secret Life of Pets (2016), Captain Underpants: The First Epic Movie (2017), Jumanji: Welcome to the Jungle (2017), Night School (2018), and Jumanji: The Next Level (2019).
-
+    Kevin Hart is a popular actor that acts in my favorite movie, At the time I wrote this fan page he has 50 movies. He has movies that impacted many lives like Fatherhodd, The upside and those are movies that inspire and have good stories that people see and see him like an example. 
 <br>
 
 <div align="center">
     <img    src="https://m.media-amazon.com/images/M/MV5BMjA2NzEzNjIwNl5BMl5BanBnXkFtZTgwNzgwMTEzNzE@._V1_.jpg"
-            title="Kein"
+            title="Kevin"
             width="50%"
             height="50%" 
             />
