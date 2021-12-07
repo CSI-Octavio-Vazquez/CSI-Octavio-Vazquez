@@ -13,8 +13,9 @@
 <br>
 
 <p>
-    Kevin Hart is a popular actor that acts in my favorite movie like Ride Along, At the time I wrote this fan page he has 50 movies. He has movies that impacted many lives like Fatherhodd, The upside and those are movies that inspire and have good stories that people see and see him like an examople. He is also one of the best comedians out there. He has movies like Jumanji, Get hard, Central Intelligence that people see and laugh all the movie.   Ride along and others. 
-</p>
+    Kevin Hart is a popular actor that acts in my favorite movie, At the time I wrote this fan page he has 50 movies. He has movies that impacted many lives like Fatherhodd, The upside and those are movies that inspire and have good stories that people see and see him like an examople. He is also one of the best comedians out there.He is an American stand-up comedian and actor. Born and raised in Philadelphia, Pennsylvania, Hart began his career by winning several amateur comedy competitions at clubs throughout New England, culminating in his first real break in 2001 when he was cast by Judd Apatow for a recurring role on the TV series Undeclared. The series lasted only one season, but he soon landed other roles in films such as Paper Soldiers (2002), Scary Movie 3 (2003), Soul Plane (2004), In the Mix (2005), and Little Fockers (2010).
+
+Hart's comedic reputation continued to grow with the release of his first stand-up album I'm a Grown Little Man (2008), and performances in the films Think Like a Man (2012), Grudge Match (2013), Ride Along (2014) and its sequel Ride Along 2 (2016), About Last Night (2014), Get Hard (2015), Central Intelligence (2016), The Secret Life of Pets (2016), Captain Underpants: The First Epic Movie (2017), Jumanji: Welcome to the Jungle (2017), Night School (2018), and Jumanji: The Next Level (2019).
 
 <br>
 
