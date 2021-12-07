@@ -60,6 +60,10 @@
      <tr>
         <th>Total Views</th>
         <td>991,704,952 </td>
+     </tr>
+     <tr>
+        <th>2 House cost</th>
+        <td>7 million</td>
     <tr>
         <th>Horrors</th>
         <td>Insects</td>
