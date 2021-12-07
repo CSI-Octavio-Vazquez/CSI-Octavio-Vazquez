@@ -31,8 +31,10 @@
     
     <h2 align="center" >Central Intelligence
         <br>
+        
+        <p>
 
-         Central Intelligence is about two guys that meet at high school and then reunited when older joined foces to take down the bad guys and they worked with the CIA
+     Central Intelligence is about two guys that meet at high school and then reunited when older joined foces to take down the bad guys and they worked with the CIA
     
 </div>
 
