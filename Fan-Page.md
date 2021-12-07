@@ -47,15 +47,15 @@
     </tr>
     <tr>
         <th>Instagram</th>
-        <td>@</td>
+        <td>@kevinhart4real</td>
     </tr>
     <tr>
-        <th>Grammys</th>
-        <td>@pestily</td>
+        <th></th>
+        <td>@</td>
     </tr>
     <tr>
         <th>Youtube</th>
-        <td>@</td>
+        <td>@href="href="https://www.youtube.com/channel/UCLRmIdRJgLfmdpJufmBhBuA"> @kevin </a></td>"> 
     </tr>
     <tr>
         <th>Twitch</th>
