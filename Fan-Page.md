@@ -55,7 +55,7 @@
     </tr>
     <tr>
         <th>Youtube</th>
-         <td><a "href="https://www.youtube.com/channel/UCLRmIdRJgLfmdpJufmBhBuA"> @kevin </a></td> 
+        <td><a href="https://www.youtube.com/watch?v=GQXVQmcGQUY&t=2s"> @LOL Network </a></td>
     </tr>
     <tr>
         <th>Horrors</th>
