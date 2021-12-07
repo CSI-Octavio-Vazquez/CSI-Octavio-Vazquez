@@ -47,7 +47,7 @@
     </tr>
     <tr>
         <th>Instagram</th>
-        <td>@kevinhart4real</td>
+        <td><a href="https://www.instagram.com/kevinhart4real/?hl=en"> @kevinhart4real </a></td>
     </tr>
     <tr>
         <th>Networth</th>
