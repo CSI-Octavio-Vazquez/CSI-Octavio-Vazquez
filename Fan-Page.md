@@ -6,7 +6,7 @@
             width="30%"
             height="30%" 
             />
-    <div align="center">
+    <br>
     <img    src="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_05/1670228/kevin-hart-mindful-kb-main-210203.jpg"
             title="Kevin Hart"
             width="30%"
@@ -20,24 +20,20 @@
 
 <p>
     Kevin Hart is a popular actor that acts in my favorite movie, At the time I wrote this fan page he has 50 movies. He has movies that impacted many lives like Fatherhodd, The upside and those are movies that inspire and have good stories that people see and see him like an example. He also has made comedies that sometimes are on youtube that make me laught alot. Kevin has made movies, interviews, with one of the best actor's out there like The rock, Jimmy fallon, Karen Gillan, Nick Jonas etc. He has helped many communitys in need when they need it. He likes to go to the NBA games. He plays in the Celebrity all start games. He has won 4 MVP in the celibrity all star.
+</p>
+    
 <br>
     
-   
-    
-    <img    src="https://m.media-amazon.com/images/M/MV5BMjA2NzEzNjIwNl5BMl5BanBnXkFtZTgwNzgwMTEzNzE@._V1_.jpg"
+<div align="center">
+    <img  src="https://m.media-amazon.com/images/I/81yLT1Bn3-L._SL1500_.jpg"
             title="Kevin"
-            width="50%"
-            height="50%" 
-            />
-    <p>
-  
-        <br>
-        
-       
+            width="30%"
+            height="30%" 
+         />
+</div>
+    
  Central Intelligence is about two guys that meet at high school and then reunited when older joined foces to take down the bad guys and they worked with the CIA
     
-</div>
-
 <br>
 
 <table>
