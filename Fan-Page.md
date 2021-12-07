@@ -47,15 +47,15 @@
     </tr>
     <tr>
         <th>Instagram</th>
-        <td>@therock</td>
+        <td>@</td>
     </tr>
     <tr>
-        <th>Twitter</th>
+        <th>Grammys</th>
         <td>@pestily</td>
     </tr>
     <tr>
         <th>Youtube</th>
-        <td>@The Rock</td>
+        <td>@</td>
     </tr>
     <tr>
         <th>Twitch</th>
