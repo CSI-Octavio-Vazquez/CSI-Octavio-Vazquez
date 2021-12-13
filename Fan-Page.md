@@ -1,4 +1,4 @@
-<h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Kevin </b></h1>
+<h1 style="font-family:Brush Arial; font-size:300%;" align="center" > <b> Kevin </b></h1>
 
 <div align="center">
     <img    src="https://deadline.com/wp-content/uploads/2019/05/kevin-hart-2.jpg?w=681&h=383&crop=1"
